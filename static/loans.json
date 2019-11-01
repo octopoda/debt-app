@@ -1,0 +1,83 @@
+{
+    "loans" : [
+        {
+            "id" : "1",
+            "loanName" : "Capital One",
+            "slug" : "capital-one", 
+            "apr" : 0.1675,
+            "total" : 5500,
+            "minimum" : 120.00,
+            "paymentDay" : 10,
+            "payments" : [
+                {
+                    "month" : "08",
+                    "year" :  "2019",
+                    "payment" : "145.00"
+                },
+                {
+                    "month" : "09",
+                    "year" :  "2019",
+                    "payment" : "168.00"
+                },
+                {
+                    "month" : "10",
+                    "year" :  "2019",
+                    "payment" : "195.00"
+                }
+
+            ]
+        },
+        {
+            "id" : "2",
+            "loanName" : "Car Loan",
+            "slug" : "car-loan", 
+            "apr" : 0.0725,
+            "total" : 29000,
+            "minimum" : 235.52,
+            "paymentDay" : 14,
+            "payments" : [
+                {
+                    "month" : "08",
+                    "year" :  "2019",
+                    "payment" : "245.00"
+                },
+                {
+                    "month" : "09",
+                    "year" :  "2019",
+                    "payment" : "245.00"
+                },
+                {
+                    "month" :  "10",
+                    "year" :  "2019",
+                    "payment" : "245.00"
+                }
+            ]
+        },
+        {
+            "id" : "3",
+            "loanName" : "Texas Health",
+            "slug" : "texas-health", 
+            "apr" : 0.0234,
+            "total" : 750,
+            "minimum" : 45.12,
+            "paymentDay" : 26,
+            "payments" : [
+                {
+                    "month" : "08",
+                    "year" :  "2019",
+                    "payment" : "45.12"
+                },
+                {
+                    "month" : "09",
+                    "year" :  "2019",
+                    "payment" : "45.12"
+                },
+                {
+                    "month" :  "10",
+                    "year" :  "2019",
+                    "payment" : "45.12"
+                }
+            ]
+        }
+    ]
+}
