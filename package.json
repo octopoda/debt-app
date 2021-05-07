@@ -17,7 +17,7 @@
     "moment": "^2.24.0",
     "nuxt": "^2.0.0",
     "nuxt-material-design-icons": "^1.0.4",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0",
